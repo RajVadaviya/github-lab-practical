@@ -1,2 +1,2 @@
 # github-lab-practical
-This is for learn git
+This is for git practical
