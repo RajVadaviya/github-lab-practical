@@ -1,0 +1,4 @@
+//file3.txt github collaboration
+
+GitHub collaboration transforms coding into a social, team-based process where multiple developers can contribute to a single project simultaneously through a shared remote repository. 
+It relies on Pull Requests (PRs) as the central hub for reviewing and discussing code changes, alongside Issues for tracking bugs and project tasks.
