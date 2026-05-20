@@ -1,0 +1,24 @@
+SCENARIO BASED QUESTIONS ASKED IN AN INTERVIEW -
+
+CASE STUDY 1 -
+
+A student team is asked to complete a mini project using GitHub, but they are restricted to using only the GitHub web interface—no command-line tools are allowed. During the project, the team creates multiple branches to work on different files, raises an issue when project documentation becomes unclear, and collaborates by reviewing and merging pull requests.
+
+Midway through the project, the team notices that changes from different branches could easily conflict and that poor documentation could slow down collaboration.
+
+As a student, analyze how GitHub’s features help prevent confusion and manage teamwork in this situation. Critically evaluate which GitHub features are most important for beginners and justify your reasoning with examples from the case.
+
+
+CASE STUDY 2 -
+
+Compare GitHub with other DevOps and project management tools. Explain how these tools go beyond GitHub’s core features to support large-scale software development.
+
+
+CASE STUDY 3 -
+
+What are features of GITHUB - which you liked more.
+
+
+CASE STUDY 4 - 
+
+If you know GitHub well, what types of job roles or interviews do you think you are prepared for, and why? ---- List the Job Roles 
