@@ -2,4 +2,3 @@
 
 Git branching is a powerful tool that allows you to diverge from the main codebase to develop features or fix bugs in an isolated "sandbox" environment.
 Because branches are essentially lightweight pointers to snapshots of your code, they allow multiple developers to work in parallel without interfering with the stable Main project history.
-
